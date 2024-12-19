@@ -11,7 +11,7 @@ The project is divided into three levels of complexity:
 
 This project demonstrates advanced SQL skills, including the use of JOINs, CTEs, window functions, and aggregations, to solve real-world data analysis problems. It serves as a comprehensive example of how relational databases can be utilized to drive decision-making in a business context. 
 
-## Database and Tools
+## Tools
 - PostgreSQL: For writing and executing SQL queries to analyze the music store database.
 - pgAdmin: A graphical interface to manage and interact with the PostgreSQL database.
 
